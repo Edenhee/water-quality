@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-waterquality-dev-58fb1-authRole",
+      "UnauthRoleArn": "arn:aws:iam::733421296020:role/amplify-waterquality-dev-58fb1-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::733421296020:role/amplify-waterquality-dev-58fb1-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-waterquality-dev-58fb1-deployment",
+      "UnauthRoleName": "amplify-waterquality-dev-58fb1-unauthRole",
+      "StackName": "amplify-waterquality-dev-58fb1",
+      "StackId": "arn:aws:cloudformation:us-east-1:733421296020:stack/amplify-waterquality-dev-58fb1/ca511590-e9c7-11ef-a6ea-0e7f81d39cf7",
+      "AmplifyAppId": "dz1wgex8smk8g"
+    }
+  }
+}
